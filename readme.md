@@ -5,7 +5,7 @@ Let's make our first API request to the REST-api!
 
 In the example below, we're trying to get information about the REST-api:
 
-```https://localhost:3000/api/test```
+```http://localhost:9999/api/test```
 
 Here is the response we get:
 
